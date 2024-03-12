@@ -16,6 +16,10 @@ Foi mostrado algumas informações importantes:
 5 - Visitas ao site por dia da semana no mês;</br>
 6 - Estados que mais venderam no mês;</br>
 
+</br></br>
+<img src="/Print Dashboard.png">
+</br></br>
+
 ### Tecnologias usadas:
 
 - SQL
